@@ -20,6 +20,20 @@ Technologies Used:
 •	scikit-learn for machine learning.
 •	Pandas and NumPy for data handling.
 
+## Description
+This project focuses on predicting heart disease risk using the Gaussian Naive Bayes algorithm. By analyzing medical data with feature selection and preprocessing, the model predicts the likelihood of heart disease with impressive accuracy.
+
+## Features
+- Predicts heart disease risk based on user data.
+- Achieved 83% prediction accuracy on test data.
+- Simple and efficient for quick assessments.
+
+## How to Use
+1. Place the `heart.csv` dataset in the same directory.
+2. Run the script using:  
+   ```bash
+   python heart_disease_predictor.py
+
 Future Enhancements:
 •	Deploy as a web app for easier user interaction.
 •	Expand the dataset for better generalization.
